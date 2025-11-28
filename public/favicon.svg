@@ -1,0 +1,41 @@
+<svg viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="diamondGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ef4444" />
+      <stop offset="50%" stop-color="#dc2626" />
+      <stop offset="100%" stop-color="#b91c1c" />
+    </linearGradient>
+    <linearGradient id="diamondGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fcd34d" />
+      <stop offset="50%" stop-color="#fbbf24" />
+      <stop offset="100%" stop-color="#f59e0b" />
+    </linearGradient>
+  </defs>
+
+  <!-- Diamante exterior -->
+  <path
+    d="M50 5 L95 40 L50 95 L5 40 Z"
+    stroke="url(#diamondGrad)"
+    stroke-width="3"
+    fill="none"
+  />
+
+  <!-- Facetas del diamante -->
+  <path d="M50 5 L50 40 L5 40" stroke="url(#diamondGrad)" stroke-width="1.5" fill="none" opacity="0.5" />
+  <path d="M50 5 L50 40 L95 40" stroke="url(#diamondGrad)" stroke-width="1.5" fill="none" opacity="0.5" />
+  <path d="M50 40 L50 95" stroke="url(#diamondGrad)" stroke-width="1.5" fill="none" opacity="0.5" />
+
+  <!-- L en el centro -->
+  <path
+    d="M35 25 L35 60 L65 60"
+    stroke="url(#diamondGold)"
+    stroke-width="6"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    fill="none"
+  />
+
+  <!-- Brillo superior -->
+  <circle cx="50" cy="15" r="3" fill="white" opacity="0.8" />
+  <circle cx="45" cy="18" r="1.5" fill="white" opacity="0.5" />
+</svg>

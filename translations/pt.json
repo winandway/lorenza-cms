@@ -1,0 +1,76 @@
+{
+  "nav": {
+    "home": "Início",
+    "about": "Sobre Mim",
+    "projects": "Meus Projetos",
+    "testimonials": "Depoimentos",
+    "events": "Eventos",
+    "join": "Junte-se Agora",
+    "contact": "Contato",
+    "admin": "Admin"
+  },
+  "hero": {
+    "greeting": "Olá, eu sou",
+    "subtitle": "Líder em marketing de rede com +20 anos de experiência",
+    "cta": "Conheça minha trajetória",
+    "joinNow": "JUNTE-SE AGORA"
+  },
+  "about": {
+    "title": "Minha Trajetória",
+    "subtitle": "Desde 2005 construindo equipes de sucesso"
+  },
+  "projects": {
+    "title": "Meus Projetos",
+    "subtitle": "Mais de 20 anos de experiência em marketing de rede",
+    "mainProject": "Projeto Principal",
+    "joinNow": "Junte-se Agora",
+    "teamMembers": "Membros da equipe",
+    "timeAchieved": "Tempo alcançado",
+    "experience": "Experiência em MLM Tradicional",
+    "digitalExperience": "Experiência em MLM Digital"
+  },
+  "testimonials": {
+    "title": "Histórias de Sucesso",
+    "subtitle": "O que dizem as pessoas que trabalharam comigo",
+    "cta": "Pronto para escrever sua própria história de sucesso?",
+    "joinTeam": "Junte-se à Minha Equipe"
+  },
+  "team": {
+    "title": "Quer Fazer Parte da Minha Equipe?",
+    "subtitle": "Junte-se a uma equipe de profissionais comprometidos com a excelência",
+    "cta": "Entre em contato",
+    "join": "Junte-se Agora"
+  },
+  "contact": {
+    "title": "Contato",
+    "subtitle": "Vamos conectar e começar a trabalhar juntos",
+    "whatsapp": "WhatsApp",
+    "group": "Grupo WhatsApp",
+    "wallet": "Carteira USDT",
+    "network": "Rede",
+    "sellsUsdt": "Também vendo USDT",
+    "sellsUsdtDesc": "Se você precisa de USDT para transações, posso ajudar",
+    "copy": "Copiar",
+    "copied": "Copiado!"
+  },
+  "footer": {
+    "rights": "Todos os direitos reservados",
+    "developedBy": "Developed by"
+  },
+  "admin": {
+    "title": "Painel de Administração",
+    "login": "Entrar",
+    "logout": "Sair",
+    "email": "E-mail",
+    "password": "Senha",
+    "content": "Conteúdo",
+    "team": "Equipe",
+    "settings": "Configurações",
+    "save": "Salvar",
+    "saving": "Salvando...",
+    "saved": "Salvo!",
+    "upload": "Enviar imagem",
+    "delete": "Excluir",
+    "add": "Adicionar"
+  }
+}
