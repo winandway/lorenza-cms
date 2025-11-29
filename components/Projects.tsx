@@ -19,7 +19,7 @@ const mainProject = {
 const otherProjects = [
   { name: 'Herbalife', logo: '🌿' },
   { name: 'Newlife', logo: '✨' },
-  { name: 'Forlife', logo: '💪' },
+  { name: '4life', logo: '💪' },
   { name: 'Forever', logo: '♾️' },
   { name: 'Apaysami', logo: '🌟' },
   { name: 'TLC', logo: '❤️' },
